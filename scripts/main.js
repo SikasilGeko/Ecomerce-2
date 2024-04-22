@@ -57,11 +57,11 @@ function GenerateHTMLformain() {
         
         <div class="product-1 col-xxl-4 col-lg-6 col-md-12 mb-4" >
         <div class="image-div-product">
-        <a href="/shop.html" style="text-decoration: none; color: black;"> <img style="width:100%" src="${i.image}" class="image-product" alt=""></a>
+        <a href="shop.html" style="text-decoration: none; color: black;"> <img style="width:100%" src="${i.image}" class="image-product" alt=""></a>
         </div>
 
         <div class="text-div-product">
-        <a href="/shop.html" style="text-decoration: none; color: black;">
+        <a href="shop.html" style="text-decoration: none; color: black;">
             <div class="stars" ><span style="font-size: 170%;">&#9734;&#9734;&#9734;&#9734;&#9734;</span> </div>
             <div class="product-name"><h2 class="product-name2">${i.name}</h2></div>
             <div class="product-firm"><span class="product-firm2">${i.type}</span></div>
