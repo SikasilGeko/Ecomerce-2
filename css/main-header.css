@@ -1,7 +1,7 @@
 .main-image-div-header {
     background-color: rgb(145, 144, 144);
     background-blend-mode: multiply;
-    background-image: url('/images/DALL·E\ 2024-03-17\ 23.28.16\ -\ A\ photograph\ of\ an\ elegantly\ decorated\ corner\ in\ a\ modern\ home.\ The\ scene\ features\ a\ group\ of\ potted\ plants\ with\ a\ mix\ of\ snake\ plants\ and\ lush\ green\ .webp');
+    background-image: url("images/DALL·E 2024-03-17 23.28.16 - A photograph of an elegantly decorated corner in a modern home. The scene features a group of potted plants with a mix of snake plants and lush green .webp");
     width: 100%;
     min-height: 90vh;
     background-position: center;
