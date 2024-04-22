@@ -212,7 +212,7 @@ h6 {
 
     .div-opcii {
         display: flex;
-
+     margin-right: 4%;
         width: 20%;
         box-sizing: border-box;
     }
